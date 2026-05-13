@@ -32,7 +32,7 @@
 
  📄 Resume: [View here](https://drive.google.com/file/d/1ZcpblVfTrZnSohY8anw2KDefpJDYc71R/view?usp=sharing)
 
- ⚡ Currently open to **full-time backend / full-stack engineering roles**
+ ⚡ Currently open to **full-time backend / full-stack engineering, AI Engineering roles**
 
 ---
 
